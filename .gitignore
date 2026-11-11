@@ -1,0 +1,13 @@
+# Dependencies and Cache
+node_modules/
+.npm
+.playwright-mcp/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
